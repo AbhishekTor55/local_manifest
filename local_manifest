@@ -4,7 +4,7 @@
  <!-- Trees -->
  <project path="device/samsung/j8y18lte" name="goldfish07/android_device_samsung_j8y18lte.git" remote="github" revision="lineage-17.1-64" />
 
- <project path="vendor/sumsung/j8y18lte" name="goldfish07/android_vendor_samsung_j8y18lte.git" remote="github" revision="master" />
+ <project path="vendor/sumsung/j8y18lte" name="goldfish07/android_vendor_samsung_j8y18lte.git" remote="github" revision="10-64" />
  <project path="kernel/samsung/j8y18lte" name="goldfish07/android_kernel_samsung_j8y18lte.git" remote="github" revision="lineage-17.1-64" />
  
 </manifest>
