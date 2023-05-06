@@ -2,9 +2,9 @@
 <manifest>
 
  <!-- Trees -->
- <project path="device/10or/G" name="RahulPalXDA/android_device_10or_G.git" remote="github" revision="lineage-18.1" />
- <project path="device/10or/msm8953-common" name="RahulPalXDA/android_device_10or_msm8953-common.git" remote="github" revision="lineage-18.1" />
- <project path="vendor/10or" name="RahulPalXDA/android_vendor_10or.git" remote="github" revision="master" />
- <project path="kernel/10or/G" name="10orDevs/android_kernel_10or_G-4.9.git" remote="github" revision="lineage-18.1" />
+ <project path="device/samsung/j8y18lte" name="goldfish07/android_device_samsung_j8y18lte.git" remote="github" revision="lineage-17.1-64" />
+
+ <project path="vendor/sumsung/j8y18lte" name="goldfish07/android_vendor_samsung_j8y18lte.git" remote="github" revision="master" />
+ <project path="kernel/samsung/j8y18lte" name="goldfish07/android_kernel_samsung_j8y18lte.git" remote="github" revision="lineage-17.1-64" />
  
 </manifest>
